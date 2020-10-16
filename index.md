@@ -5,6 +5,8 @@
 
 ## The identified wastes
 ## Deliverables
+1. Report the new demo with understandable contents, "Note" area of visualizations, and the PowerPoint of visualizations' examples
+2. Project complete -- October 16, 2020
 ## Milestone
 1. Project complete -- October 16, 2020
 ## The Gantt diagram
