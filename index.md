@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to MyWonder's documentation
 
 You can use the [editor on GitHub](https://github.com/liling10822/MyWonder/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
