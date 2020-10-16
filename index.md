@@ -16,7 +16,7 @@ For the users who are inconvenient with a computer, our mobile client is easy an
 3. Open the authority of content update to the client
 4. Show the examples of visualizations through PowerPoint to the client
 5. Finish for adding the examples to the documentation
-5. Project completed -- October 16, 2020
+6. Project completed -- October 16, 2020
 
 ## Milestone
  Project completed -- October 16, 2020
