@@ -6,11 +6,11 @@ MyWonder is a new platform for big data analysis and visualization. In MyWonder,
 For the users who are inconvenient with a computer, our mobile client is easy and fast to use for calculations and summaries.
 
 ## The identified wastes
-### Waiting
+##### Waiting
 Waiting for the platform generates the analysis and visualizations
-### Defect
+##### Defect
 ununderstandable terminology and contents for users
- ### Motion 
+ ##### Motion 
   Large reach distance to update contents
 
 ## Deliverables
