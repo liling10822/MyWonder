@@ -10,7 +10,7 @@
 2. Project complete -- October 16, 2020
 
 ## Milestone
-1. Project complete -- October 16, 2020
+ Project complete -- October 16, 2020
 
 ## The Gantt diagram
 
