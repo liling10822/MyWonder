@@ -1,8 +1,12 @@
 # MyWonder's documentation
 
 
-## Waste
+## The project summary
 
+## The identified wastes
+## Deliverables
+## Milestone
+## The Gantt diagram
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
