@@ -11,8 +11,11 @@ For the users who are inconvenient with a computer, our mobile client is easy an
 3. Motion -- Large reach distance to update contents
 
 ## Deliverables
-1. Report the new demo to the client -- understandable contents and terminology, "Note" area of visualizations, and the PowerPoint of visualizations' examples
-2. Project complete -- October 16, 2020
+1. Show "Note" area of UI to the client
+2. Show the changes of terminology to the client
+3. Open the authority of content update to the client
+4. Show the examples of visualizations through PowerPoint to the client
+5. Project complete -- October 16, 2020
 
 ## Milestone
  Project complete -- October 16, 2020
