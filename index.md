@@ -1,10 +1,9 @@
-## Welcome to MyWonder's documentation
+# MyWonder's documentation
 
-You can use the [editor on GitHub](https://github.com/liling10822/MyWonder/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+
+### Question 2
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -25,6 +24,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+### Question 3
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
