@@ -19,7 +19,8 @@ For the users who are inconvenient with a computer, our mobile client is easy an
 6. Project completed -- October 16, 2020
 
 ## Milestone
- Project completed -- October 16, 2020
+ *bold* Project completed -- October 16, 2020
+ 
 
 ## The Gantt diagram
 ![image](https://raw.githubusercontent.com/liling10822/MyWonder_update_version/gh-pages/Gantt%20Diagram.png)
