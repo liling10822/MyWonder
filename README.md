@@ -1,5 +1,5 @@
 # MyWonder
-## Website
+## Documentaion
 
 https://liling10822.github.io/MyWonder_update_version/
 ## The project summary
