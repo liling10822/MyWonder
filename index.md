@@ -6,7 +6,7 @@
 ## The identified wastes
 ## Deliverables
 ## Milestone
-Project complete -- October 16, 2020
+-Project complete -- October 16, 2020
 ## The Gantt diagram
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
