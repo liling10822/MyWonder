@@ -19,7 +19,7 @@ For the users who are inconvenient with a computer, our mobile client is easy an
 6. Project completed -- October 16, 2020
 
 ## Milestone
-### Project completed -- October 16, 2020
+** Project completed -- October 16, 2020 
  *  This milestone is about finishing and reporting the demo to complete the project.
  
 ## The Gantt diagram
