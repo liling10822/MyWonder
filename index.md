@@ -19,7 +19,7 @@ For the users who are inconvenient with a computer, our mobile client is easy an
 6. Project completed -- October 16, 2020
 
 ## Milestone
- *bold* Project completed -- October 16, 2020
+ *Bold* Project completed -- October 16, 2020
  
 
 ## The Gantt diagram
