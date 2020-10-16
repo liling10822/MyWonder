@@ -7,6 +7,7 @@ For the users who are inconvenient with a computer, our mobile client is easy an
 
 ## The identified wastes
 
+
 ## Deliverables
 1. Report the new demo to the client -- understandable contents and terminology, "Note" area of visualizations, and the PowerPoint of visualizations' examples
 2. Project complete -- October 16, 2020
